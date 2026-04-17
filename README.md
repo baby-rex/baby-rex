@@ -25,12 +25,12 @@
 ---
 
 ### 🧠 Tech Stack  
-**Languages:** Python • Java • C++ • SQL  
-**AI / Machine Learning:** PyTorch • Transformers • Feature Engineering • Model Evaluation • Time-Series Modeling  
-**LLM & Generative AI:** RAG • FAISS • Embeddings • LangChain • LangGraph • Multi-Agent Systems • LoRA • Fine-Tuning  
-**AI Systems & Backend:** FastAPI • API Design • Inference Pipelines • Async Processing  
-**Data & Applied ML:** Pandas • NumPy • Geospatial Data (Satellite Data) • Data Pipelines • A/B Testing  
-Cloud: AWS • Vercel • Docker • Kubernetes (basic) 
+**AI/ML:** PyTorch • TensorFlow • HuggingFace • Feature Engineering • Model Evaluation • Time-Series Modeling
+**Agentic & Gen AI:** LangChain • LangGraph • FAISS • Embeddings • Self RAG • CRAG • Diffusion Models • RAG • LoRA  
+**Cloud:** AWS • Vercel • Docker • Kubernetes (basic)  
+**Languages:** Python • Java • C++  
+**Other Skills:** Prompt Engineering • Data Visualization • Generative UX 
+
 ---
 
 ### 🌟 Highlight Projects  
