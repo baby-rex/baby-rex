@@ -50,7 +50,7 @@
 ---
 
 ### 🏆 Achievements  
-🏅 Secured **AIR 187 in JEE Mains-2 (2022)**  
+- 🏅 Secured **AIR 187 in JEE Mains-2 (2022)**  
 - Among **Top 10 %ile in JEE Mains**, Qualified for **JEE Advanced**, Secured **208 in BITSAT**  
 - Cracked multiple national-level exams including **UCEED, ICAR-UG, and IMUCET**  
 - Ranked in global quantitative competitions — **3370 (Power Pool Alpha)** & **3033 (High Capacity Alpha)**  
