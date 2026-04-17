@@ -30,7 +30,7 @@
 **LLM & Generative AI:** RAG • FAISS • Embeddings • LangChain • LangGraph • Multi-Agent Systems • LoRA • Fine-Tuning  
 **AI Systems & Backend:** FastAPI • API Design • Inference Pipelines • Async Processing  
 **Data & Applied ML:** Pandas • NumPy • Geospatial Data (Satellite Data) • Data Pipelines • A/B Testing  
-**Cloud:** AWS • Vercel • Docker • Kubernetes (basic)  
+Cloud: AWS • Vercel • Docker • Kubernetes (basic) 
 ---
 
 ### 🌟 Highlight Projects  
