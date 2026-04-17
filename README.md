@@ -25,11 +25,11 @@
 ---
 
 ### 🧠 Tech Stack  
-**AI/ML:** PyTorch • TensorFlow • HuggingFace • Feature Engineering • Model Evaluation • Time-Series Modeling
-**Agentic & Gen AI:** LangChain • LangGraph • FAISS • Embeddings • Self RAG • CRAG • Diffusion Models • RAG • LoRA  
-**Cloud:** AWS • Vercel • Docker • Kubernetes (basic)  
-**Languages:** Python • Java • C++  
-**Other Skills:** Prompt Engineering • Data Visualization • Generative UX 
+- **AI/ML:** PyTorch • TensorFlow • HuggingFace • Feature Engineering • Model Evaluation • Time-Series Modeling
+- **Agentic & Gen AI:** LangChain • LangGraph • FAISS • Embeddings • Self RAG • CRAG • Diffusion Models • RAG • LoRA  
+- **Cloud:** AWS • Vercel • Docker • Kubernetes (basic)  
+- **Languages:** Python • Java • C++  
+- **Other Skills:** Prompt Engineering • Data Visualization • Generative UX 
 
 ---
 
