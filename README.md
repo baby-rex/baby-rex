@@ -1,7 +1,73 @@
 [![MasterHead](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)](https://rishavchanda.io)
 
+# 👋 Hello World, I'm Tanmay Jaipuriar!
 
-<h1 align="center">Hi 👋, I'm Tanmay Jaipuriar</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=baby-rex&label=Profile%20views&color=0e75b6&style=flat" alt="baby-rex" /> </p>
+
+### 🚀 About Me  
+🌱 I’m an **AI & Software Engineer** currently pursuing **B.Tech in Electronics and Communication Engineering** at **NSUT, New Delhi**.  
+👩‍💻 I love building intelligent systems that merge creativity with computation — from AI pipelines to full-stack products.  
+💡 My interests lie in **Generative AI**, **Agentic AI Systems**, and **Affective Computing**.  
+✍️ Outside of code, I write about **AI, startups, and digital storytelling** on [**my blog**](https://hashnode.com/@yamnat).  
+
+---
+
+### 💼 My Experience  
+- **Software Developer Intern @ Arms4Ai  (Present)** 
+  Worked on **ML models using satellite-derived datasets**, handling geospatial data processing, feature engineering, and building backend systems for scalable deployment.  
+  
+- **Quant Research Consultant @ WorldQuant  (Active)** 
+  Worked on **alpha research and quantitative modeling**, analyzing financial data and building strategies using statistical and ML-based approaches.
+  
+- **Product Development Intern @ Creative Interfaces Lab, IIIT Delhi  (May 2024 - July 2024)** 
+   Built a **real-world IoT + AI integrated system**, working on sensor-driven data pipelines and intelligent processing for interactive applications.  
+
+---
+
+### 🧠 Tech Stack  
+**Languages:** Python • Java • C++ • SQL  
+**AI / Machine Learning:** PyTorch • Transformers • Feature Engineering • Model Evaluation • Time-Series Modeling  
+**LLM & Generative AI:** RAG • FAISS • Embeddings • LangChain • LangGraph • Multi-Agent Systems • LoRA • Fine-Tuning  
+**AI Systems & Backend:** FastAPI • API Design • Inference Pipelines • Async Processing  
+**Data & Applied ML:** Pandas • NumPy • Geospatial Data (Satellite Data) • Data Pipelines • A/B Testing  
+**Cloud:** AWS • Vercel • Docker • Kubernetes (basic)  
+---
+
+### 🌟 Highlight Projects  
+
+| Project | Description | Tech |
+|----------|--------------|------|
+| 🧩 [**Contexta**](https://github.com/baby-rex/Contextual_Search) | AI-powered semantic search system converting CSV/JSON into a structured retrieval pipeline using similarity-based ranking beyond keywords. | SentenceTransformers, FAISS, FastAPI, Embeddings |
+| 🤖 [**MoltBook Agent**](https://github.com/baby-rex/Moltbook_Agent) | Agentic CRAG pipeline for multi-format document ingestion, semantic indexing, and privacy-aware knowledge retrieval with iterative refinement. | LangChain, LangGraph, CRAG, LLMs |
+| 🕵️ [**Dark Pattern Detection**](https://github.com/baby-rex) | Multimodal ML system detecting UI dark patterns using visual, textual, and structural signals with explainable insights. | YOLO, Transformers, DistilBERT, XAI | 
+
+---
+
+### 📈 GitHub Snapshot 
+![Tanmay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baby-rex&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=baby-rex&&layout=compact&theme=radical)  
+
+---
+
+### 🏆 Achievements  
+🏅 Secured **AIR 187 in JEE Mains-2 (2022)**  
+📊 Among **Top 10% in JEE Mains**, Qualified for **JEE Advanced**, Secured **208 in BITSAT**  
+🎯 Cracked multiple national-level exams including **UCEED, ICAR-UG, and IMUCET**  
+🌍 Ranked in global quantitative competitions — **3370 (Power Pool Alpha)** & **3033 (High Capacity Alpha)**  
+📈 **GATE Qualified (Data Science & AI)**  
+
+---
+
+### 🤝 Let’s Connect  
+- 💻 **GitHub:** [baby~rex](https://github.com/baby-rex)  
+- 🔗 **LinkedIn:** [Tanmay Jaipuriar](https://www.linkedin.com/in/tanmay-jaipuriar/)  
+- 🧠 **AI Blog:** [Tanmay on Hashnode](https://hashnode.com/@yamnat)  
+- ✉️ **Email:** tanmay.jaipuriar.ug22@nsut.ac.in  
+
+---
+
+**“I build, I write, I learn — and sometimes I let AI do the storytelling.”**
+<!-- <h1 align="center">Hi 👋, I'm Tanmay Jaipuriar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baby-rex&label=Profile%20views&color=0e75b6&style=flat" alt="baby-rex" /> </p>
@@ -30,4 +96,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baby-rex&show_icons=true&locale=en" alt="baby-rex" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baby-rex&" alt="baby-rex" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baby-rex&" alt="baby-rex" /></p> -->
