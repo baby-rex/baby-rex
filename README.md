@@ -25,7 +25,7 @@
 ---
 
 ### 🧠 Tech Stack  
-- **AI/ML:** PyTorch • TensorFlow • HuggingFace • Feature Engineering • Model Evaluation • Time-Series Modeling
+- **AI/ML:** PyTorch • HuggingFace • Feature Engineering • Model Evaluation • Time-Series Modeling
 - **Agentic & Gen AI:** LangChain • LangGraph • FAISS • Embeddings • Self RAG • CRAG • Diffusion Models • RAG • LoRA  
 - **Cloud:** AWS • Vercel • Docker • Kubernetes (basic)  
 - **Languages:** Python • Java • C++  
@@ -51,10 +51,10 @@
 
 ### 🏆 Achievements  
 🏅 Secured **AIR 187 in JEE Mains-2 (2022)**  
-📊 Among **Top 10% in JEE Mains**, Qualified for **JEE Advanced**, Secured **208 in BITSAT**  
-🎯 Cracked multiple national-level exams including **UCEED, ICAR-UG, and IMUCET**  
-🌍 Ranked in global quantitative competitions — **3370 (Power Pool Alpha)** & **3033 (High Capacity Alpha)**  
-📈 **GATE Qualified (Data Science & AI)**  
+- Among **Top 10 %ile in JEE Mains**, Qualified for **JEE Advanced**, Secured **208 in BITSAT**  
+- Cracked multiple national-level exams including **UCEED, ICAR-UG, and IMUCET**  
+- Ranked in global quantitative competitions — **3370 (Power Pool Alpha)** & **3033 (High Capacity Alpha)**  
+- **GATE Qualified (Data Science & AI)**  
 
 ---
 
